@@ -994,7 +994,7 @@ display(m)
 
 **Considerações finais:**
 
-Reconstruimos o mapa dos bares participantes do concurso "Comida de Buteco 2026 Juiz de Fora*, a partir do arquivo *.kml*, com o auxílio de diversas bibliotecas do Python, para assegurar controle das características e seleção de texturas.
+Reconstruimos o mapa dos bares participantes do concurso "Comida de Buteco 2026 Juiz de Fora*, a partir do arquivo *.kml*, com o auxílio de diversas bibliotecas do Python, para assegurar controle das características, seleção de texturas e busca personalizada.
 
 **Fontes:**
 
