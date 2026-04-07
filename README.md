@@ -2,7 +2,7 @@
 
 ### Introdução
 
-O historiador, turismólogo e professor [Inácio Botto](https://www.instagram.com/inaciobotto) criou um mapa informativo no *Google My Map*, para o usuário descobrir os bares participantes do *Comida di Buteco 2026 Juiz de Fora*, conhecer os petiscos criados especialmente para o concurso, explorar os endereços e montar seu roteiro.
+O historiador, turismólogo e professor [Inácio Botto](https://www.instagram.com/inaciobotto) criou um mapa informativo no *Google My Map*, para o usuário descobrir os bares participantes do **Comida di Buteco 2026 Juiz de Fora**, conhecer os petiscos criados especialmente para o concurso, explorar os endereços e montar seu roteiro.
 
 Já descrevemos [aqui](https://github.com/guiajf/riscojf) como baixar o arquivo *.kml* gerado pela ferramenta do Google, que contém os dados geográficos indispensáveis para reprodução do mapa em outro ambiente.
 
