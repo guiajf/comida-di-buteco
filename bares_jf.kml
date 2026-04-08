@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Comida di Buteco 2026 – Mapa dos Bares de Juiz de Fora</name>
+    <description>Explore os endereços, monte seu roteiro e descubra os petiscos criados especialmente para o concurso, todos por R$ 40.</description>
+    <Style id="icon-1879-AFB42B-nodesc-normal">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1879-AFB42B-nodesc-highlight">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1879-AFB42B-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1879-AFB42B-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1879-AFB42B-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Mapa com os 40 bares participantes do Comida di Buteco 2026 em Juiz de Fora </name>
+      <Placemark>
+        <name>Adega Bar
+</name>
+        <styleUrl>#icon-1879-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -43.2989666,-21.7819995,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bar Dias</name>
+        <styleUrl>#icon-1879-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -43.3609957,-21.7365987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bar do Abílio</name>
+        <styleUrl>#icon-1879-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -43.3472222,-21.7586111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bar do Antonio</name>
+        <styleUrl>#icon-1879-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -43.3723106,-21.766567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bar do Bené</name>
+        <styleUrl>#icon-1879-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -43.378489,-21.7756168,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bar do Brejo</name>
+        <styleUrl>#icon-1879-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -43.4362092,-21.6853665,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bar do Jorge</name>
+        <styleUrl>#icon-1879-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -43.3688659,-21.7672931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bar do Marquim</name>
+        <styleUrl>#icon-1879-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -43.3533205,-21.7534911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bar do Passarinho</name>
+        <styleUrl>#icon-1879-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -43.3680499,-21.7498068,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bar do Tião</name>
+        <styleUrl>#icon-1879-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -43.3831797,-21.7882238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bar Torresmo</name>
+        <styleUrl>#icon-1879-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -43.3533213,-21.78997,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bar Du Buneco - Juíz de Fora</name>
+        <styleUrl>#icon-1879-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -43.3494793,-21.7418419,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bar Du Chico</name>
+        <styleUrl>#icon-1879-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -43.3536869,-21.7652098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bar Santa Moderação</name>
+        <styleUrl>#icon-1879-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -43.34463,-21.7867333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Bar Batata D'Mola]]></name>
+        <styleUrl>#icon-1879-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -43.3521957,-21.7541569,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Birosca Bar e Restaurante</name>
+        <styleUrl>#icon-1879-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -43.3586749,-21.7536439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Budega do Papai</name>
+        <styleUrl>#icon-1879-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -43.3568702,-21.7319617,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Buteco do Príncipe</name>
+        <styleUrl>#icon-1879-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -43.3752646,-21.7717784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Butiquim da Fábrica</name>
+        <styleUrl>#icon-1879-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -43.3501901,-21.7745557,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Caminho da Roça</name>
+        <styleUrl>#icon-1879-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -43.3454451,-21.7632591,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Carlota</name>
+        <styleUrl>#icon-1879-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -43.3521346,-21.764565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Casarão Bar</name>
+        <styleUrl>#icon-1879-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -43.3399353,-21.7554517,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coliseum Bar</name>
+        <styleUrl>#icon-1879-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -43.4341042,-21.6885565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Compadre Grill Costelaria</name>
+        <styleUrl>#icon-1879-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -43.3546633,-21.7216065,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dirceu’s Pub</name>
+        <styleUrl>#icon-1879-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -43.3483018,-21.7777764,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Don Juan Gastronomia e eventos</name>
+        <styleUrl>#icon-1879-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -43.3810512,-21.789056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Empório do Sabor</name>
+        <styleUrl>#icon-1879-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -43.3281789,-21.7683638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Espetinho Da Villa - Bar e Restaurante Alto dos Passos</name>
+        <styleUrl>#icon-1879-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -43.3491994,-21.7753465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>IBITIBAR</name>
+        <styleUrl>#icon-1879-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -43.347486,-21.7854816,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Informal Bar & Restaurante]]></name>
+        <styleUrl>#icon-1879-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -43.358278,-21.752784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lero Lero</name>
+        <styleUrl>#icon-1879-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -43.3549644,-21.7416711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nosso Bar JF</name>
+        <styleUrl>#icon-1879-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -43.4338592,-21.6900456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pão Moiado Bar</name>
+        <styleUrl>#icon-1879-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -43.3428745,-21.7885709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pappadog Bar</name>
+        <styleUrl>#icon-1879-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -43.3445232,-21.764711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Petisqueira</name>
+        <styleUrl>#icon-1879-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -43.3784154,-21.7889633,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Recanto dos Manacás</name>
+        <styleUrl>#icon-1879-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -43.309326,-21.7739006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Reza Forte</name>
+        <styleUrl>#icon-1879-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -43.357038,-21.752821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Super Lazin</name>
+        <styleUrl>#icon-1879-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -43.341287,-21.757916,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Varanda Restô Beer</name>
+        <styleUrl>#icon-1879-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -43.3436456,-21.7687003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zaka’s Gastro Beer</name>
+        <styleUrl>#icon-1879-AFB42B-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -43.37624,-21.755112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
