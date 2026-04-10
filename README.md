@@ -982,9 +982,14 @@ display(m)
 
 **Considerações finais:**
 
-Reconstruimos o mapa dos bares participantes do concurso **Comida de Buteco 2026 Juiz de Fora**, a partir do arquivo *.kml*, com o auxílio de diversas bibliotecas do Python, para assegurar controle das características, seleção de texturas e busca personalizada.
+Reconstruimos o mapa dos bares participantes do concurso Comida de Buteco 2026 Juiz de Fora, a partir do arquivo .kml, com o auxílio de diversas bibliotecas do Python, para assegurar controle das características, seleção de texturas e busca personalizada.
+
+No mapa interativo disponível em https://huggingface.co/spaces/guiajf/comida-di-buteco, o usuário realizarReconstruimos o mapa dos bares participantes do concurso Comida de Buteco 2026 Juiz de Fora, a partir do arquivo .kml, com o auxílio de diversas bibliotecas do Python, para assegurar controle das características, seleção de texturas e busca personalizada.
+
+No mapa interativo disponível em https://huggingface.co/spaces/guiajf/comida-di-buteco, o usuário realizar pesquisas por nome de bar e visualaizar o nome do petisco, endereço do bar e meios de contato.
 
 **Fontes:**
 
-https://www.google.com/maps/d/u/0/viewer?hl=pt-BR&mid=1i8oEc2H5LTOLXi0Dw2YRpk2PbxjwvNQ&ll=-21.755007370709816%2C-43.370167478790286&z=16
+*Inácio Botto*: https://www.instagram.com/p/DWHt1kcDhDY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
 
+*Zine Cultural*: https://zinecultural.com/blog/comida-di-buteco-juiz-de-fora
