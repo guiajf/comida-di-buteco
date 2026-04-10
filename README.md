@@ -429,7 +429,7 @@ enderecos.info()
     memory usage: 2.3+ KB
 
 
-### Mesclamos os dois dataframes
+### Mesclamos o dataframe ao geodataframe
 
 
 ```python
