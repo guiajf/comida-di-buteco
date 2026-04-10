@@ -878,7 +878,7 @@ for idx, row in gdf.iterrows():
 
 ```
 
-### Adicionamos controles
+### Adicionamos controles personalizados
 
 
 ```python
