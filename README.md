@@ -986,7 +986,7 @@ Reconstruimos o mapa dos bares participantes do concurso Comida de Buteco 2026 J
 
 No mapa interativo disponível em https://huggingface.co/spaces/guiajf/comida-di-buteco, o usuário realizarReconstruimos o mapa dos bares participantes do concurso Comida de Buteco 2026 Juiz de Fora, a partir do arquivo .kml, com o auxílio de diversas bibliotecas do Python, para assegurar controle das características, seleção de texturas e busca personalizada.
 
-No mapa interativo disponível em https://huggingface.co/spaces/guiajf/comida-di-buteco, o usuário pode realizar pesquisas por nome de bar e visualaizar o nome do petisco, endereço do bar e meios de contato.
+No mapa interativo disponível em https://huggingface.co/spaces/guiajf/comida-di-buteco, o usuário pode realizar pesquisas por estabelecimento e visualaizar o nome do petisco, endereço do bar e meios de contato.
 
 **Fontes:**
 
