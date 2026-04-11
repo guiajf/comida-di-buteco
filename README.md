@@ -157,7 +157,7 @@ gdf.info()
 
 ### Extraímos os endereços dos butecos participantes
 
-Definimos uma função para extrair os endereços dos butecos participanes na página oficial do concurso:
+Definimos uma função para extrair os endereços dos butecos participanes na página do Zine Cultural:
 https://zinecultural.com/blog/comida-di-buteco-juiz-de-fora.
 
 
