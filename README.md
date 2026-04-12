@@ -49,11 +49,11 @@ warnings.filterwarnings('ignore')
 
 ### Baixamos os dados
 
-Baixamos o arquivo *.kml*, que contém as coordenadas.
+Baixamos o arquivo *.kml*, que contém as camadas.
 
 
 ```python
-coordenadas = fiona.listlayers("bares_jf.kml")
+camadas = fiona.listlayers("bares_jf.kml")
 ```
 
 ### Criamos o GeoDataFrame
@@ -63,7 +63,7 @@ Criamos o *GeoDataFrame*, que contém as coordenadas dos bares.
 
 ```python
 gdfs = []
-for layer in coordenadas:
+for layer in camadas:
     gdf = gpd.read_file("bares_jf.kml", layer=layer)
     # Adicionar coluna identificando a camada de origem
     gdf['camada_origem'] = layer
