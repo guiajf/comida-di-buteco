@@ -8,3 +8,14 @@ requests
 beautifulsoup4
 ipywidgets
 shapely
+
+#beautifulsoup4            4.14.3
+#fiona                     1.10.1
+#geobr                     0.2.2
+#geopandas                 1.1.0
+#ipyleaflet                0.20.0
+#ipywidgets                8.1.8
+#numpy                     1.26.4
+#pandas                    3.0.3
+#requests                  2.34.2
+#shapely                   2.1.0
